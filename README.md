@@ -1,6 +1,6 @@
 # DVB-I Reference Application
 
-Project consists of a backend and frontend parts.
+Project consists of a backend and frontend parts. 
 
 Backend allows generation and editing of DVB-I service lists and generates mockup TV Anytime programme information to be used in the EPG.
 
